@@ -7,6 +7,6 @@ Link to DW file : https://github.com/Microsoft/sql-server-samples/releases/downl
 SQL Server Database has been used to "Get data" from the Data Warehouse "AdventureWorksDW2012"
 <h3> A sneek into how the dashboard looks</h3>
 
-![alt text](https://github.com/ahhanan07/ahhanan07/PowerBI---Sales-Dashboard/view/main/AdventureWorks_Dashboard_Snippet.PNG?raw=true)
+![alt text](https://github.com/ahhanan07/ahhanan07/PowerBI---Sales-Dashboard/blob/main/AdventureWorks_Dashboard_Snippet.PNG?raw=true)
 
 ![ScreenShot](https://raw.github.com/ahhanan07/PowerBI---Sales-Dashboard/{main}/AdventureWorks_Dashboard_Snippet.PNG)
