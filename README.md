@@ -1,6 +1,6 @@
-# Sales Dashboard
+## Sales Dashboard
 
-# AdventureWorksDW2012 is an open source Microsoft Data Warehouse
+### AdventureWorksDW2012 is an open source Microsoft Data Warehouse
 
 Link to DW file : https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorksDW2012.bak
 
