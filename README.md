@@ -9,4 +9,4 @@ SQL Server Database has been used to "Get data" from the Data Warehouse "Adventu
 
 ![alt text](https://github.com/ahhanan07/ahhanan07/PowerBI---Sales-Dashboard/view/main/AdventureWorks_Dashboard_Snippet.PNG?raw=true)
 
-![ScreenShot](https://raw.github.com/{ahhanan07}/{PowerBI---Sales-Dashboard}/{main}/{AdventureWorks_Dashboard_Snippet.PNG})
+![ScreenShot](https://raw.github.com/ahhanan07/PowerBI---Sales-Dashboard/{main}/AdventureWorks_Dashboard_Snippet.PNG)
